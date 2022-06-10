@@ -1,0 +1,20 @@
+
+.custom-progress-bar{
+    height: 10px !important;
+    border-radius: 10px !important;
+    margin: 5px 0px !important;
+}
+.progress-bar-1{
+    background: deeppink !important;
+}
+.progress-bar-2{
+    background-color: gold !important;
+}
+.progress-bar-3{
+    background-color: forestgreen !important;
+}
+
+.progress-bar-4{
+    background-color: cadetblue !important;
+
+}
